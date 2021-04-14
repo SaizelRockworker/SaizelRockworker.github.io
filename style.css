@@ -1,0 +1,15 @@
+  table {
+      color:green;
+    }
+
+    [href="#ideveloper"] {
+        color: orange;
+    }
+
+    li[colspan="2"] {
+        color:red;
+    }
+
+    .privet {
+        color:green;
+    }
